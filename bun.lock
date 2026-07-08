@@ -1,0 +1,15 @@
+{
+  "lockfileVersion": 1,
+  "configVersion": 1,
+  "workspaces": {
+    "": {
+      "name": "astrology-compatibility-api",
+      "dependencies": {
+        "@roxyapi/sdk": "^1.2.45",
+      },
+    },
+  },
+  "packages": {
+    "@roxyapi/sdk": ["@roxyapi/sdk@1.2.45", "", {}, "sha512-STH0fp8/vjJ9oVno0he5t10o86fmx6xdYt9QQ5HgRBH6og1iW7OPd3BtrBxgcjuPHxZYzOFrpHVeeokK5u7oFw=="],
+  }
+}
