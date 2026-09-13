@@ -6,7 +6,7 @@
   "description": "Astrology compatibility API. Scored compatibility between two birth charts with category breakdown and archetype.",
   "license": "MIT",
   "dependencies": {
-    "@roxyapi/sdk": "^1.2.45"
+    "@roxyapi/sdk": "^1.2.80"
   },
   "scripts": {
     "ts": "bun example.ts",

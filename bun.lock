@@ -5,11 +5,11 @@
     "": {
       "name": "astrology-compatibility-api",
       "dependencies": {
-        "@roxyapi/sdk": "^1.2.45",
+        "@roxyapi/sdk": "^1.2.80",
       },
     },
   },
   "packages": {
-    "@roxyapi/sdk": ["@roxyapi/sdk@1.2.45", "", {}, "sha512-STH0fp8/vjJ9oVno0he5t10o86fmx6xdYt9QQ5HgRBH6og1iW7OPd3BtrBxgcjuPHxZYzOFrpHVeeokK5u7oFw=="],
+    "@roxyapi/sdk": ["@roxyapi/sdk@1.2.80", "", {}, "sha512-qVoE8bGLC5vDgBT7fvSMLm+G/o7a9t4ey9FDzpRPhc+5fr+r/MQXrbLDJkqTJD8JD5ZuqrQhG9MmRk9o5ZayPQ=="],
   }
 }
